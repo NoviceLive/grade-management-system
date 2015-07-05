@@ -1,5 +1,14 @@
 # Grade Management System
-# 成绩管理系统
+# 成绩管理系统（最终版）
+
+For historical versions, see
+[Grade Management System](https://github.com/NoviceLive/grade-management-system)
+.
+
+当时不会使用版本控制，但是也做了备份，这个仓库是最终版本。
+所有我能找到的历史版本可以在这个仓库找到
+[Grade Management System](https://github.com/NoviceLive/grade-management-system)
+。
 
 ![Screenshot](screenshot.png)
 
