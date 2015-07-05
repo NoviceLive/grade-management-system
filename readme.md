@@ -15,8 +15,8 @@ For historical versions, see
 ## Features
 ## 描述
 
-+ Written under Visual C++ 6.0
-+ 开发环境：VC++ 6.0
++ Written under Visual C 6.0
++ C 语言开发环境：VC 6.0
 
 + Powered by single linked lists
 + 支撑数据结构：单链表
